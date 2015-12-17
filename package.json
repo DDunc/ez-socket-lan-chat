@@ -1,0 +1,15 @@
+{
+  "name": "ez-socket",
+  "version": "0.1.0",
+  "description": "ez-socket lan chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duncan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  }
+}
