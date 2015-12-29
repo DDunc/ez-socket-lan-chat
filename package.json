@@ -9,6 +9,7 @@
   "author": "Duncan",
   "license": "MIT",
   "dependencies": {
+    "engine.io": "^1.6.4",
     "express": "^4.13.3",
     "socket.io": "^1.3.7"
   }
